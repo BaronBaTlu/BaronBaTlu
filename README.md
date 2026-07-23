@@ -41,15 +41,16 @@ I enjoy designing and prototyping electronic devices from concept to hardware va
 ### 🖥️ PCB & Electronics
 ![KiCad](https://img.shields.io/badge/KiCad-314CB6?style=for-the-badge&logo=kicad&logoColor=white)
 ![Altium](https://img.shields.io/badge/Altium-003B71?style=for-the-badge)
-![Eagle 9.6](https://img.shields.io/badge/Eagle-9.6-F89820?style=for-the-badge)
+![Eagle 9.6](https://img.shields.io/badge/Eagle_9.6-F89820?style=for-the-badge)
 ![LTspice](https://img.shields.io/badge/LTspice-990000?style=for-the-badge)
-![ngspice (Qucs-s)](https://img.shields.io/badge/ngspice(Qucs-s)-006400?style=for-the-badge)
+![ngspice (Qucs-s)](https://img.shields.io/badge/ngspice_(Qucs--s)-aa6400?style=for-the-badge)
 
 ### 🛠️ Development
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
 ![FreeRTOS](https://img.shields.io/badge/FreeRTOS-0095D5?style=for-the-badge)
 ![PlatformIO](https://img.shields.io/badge/PlatformIO-F5822A?style=for-the-badge&logo=platformio&logoColor=white)
+![ArduinoIDE](https://img.shields.io/badge/ArduinoIDE-3186a0?style=for-the-badge&logo=arduino&logoColor=white)
 ![ESP-IDF](https://img.shields.io/badge/ESP--IDF-E7352C?style=for-the-badge&logo=espressif&logoColor=white)
 ![STM32CubeIDE](https://img.shields.io/badge/STM32CubeIDE-03234B?style=for-the-badge&logo=stmicroelectronics&logoColor=white)
 
