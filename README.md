@@ -9,7 +9,7 @@
  -->
 I'm an electronics engineer focused on **PCB design**, **embedded systems**, and **digital signal processing (DSP)**.
 
-I enjoy designing and prototyping electronic devices from concept to hardware validation. My work includes PCB design, firmware development, sensor integration, and acoustic measurement systems, with a strong emphasis on **signal integrity**, **EMC/EMI compatibility**, and reliable embedded solutions.
+Heavily into getting electrons to move on traces predictably. My work includes PCB design, firmware development, sensor integration, documentation, and acoustic measurement systems, with a strong emphasis on **signal integrity**, **EMC/EMI compatibility**, and reliable embedded solutions.
 
 ---
 ![STM32](https://img.shields.io/badge/STM32-03234B?style=for-the-badge&logo=stmicroelectronics&logoColor=white)
