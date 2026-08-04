@@ -7,7 +7,7 @@
   <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=BaronBaTlu&layout=compact&theme=tokyonight" />
 </p>
  -->
-I'm an electronics engineer focused on **PCB design**, **embedded systems**, and **digital signal processing (DSP)**.
+Electronics engineer focused on **PCB design**, **embedded systems**, and **digital signal processing (DSP)**.
 
 Heavily into getting electrons to move on traces predictably. My work includes PCB design, firmware development, sensor integration, documentation, and acoustic measurement systems, with a strong emphasis on **signal integrity**, **EMC/EMI compatibility**, and reliable embedded solutions.
 
